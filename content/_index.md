@@ -15,4 +15,4 @@ Test
 
 #### Schulformulare:
 
-Befreiung der Schulpflicht: \[rezeptdb6-pdf_id-14389.pdf _http://localhost/uploads/rezeptdb6-pdf_id-14389.pdf_
+Befreiung der Schulpflicht: \[rezeptdb6-pdf_id-14389.pdf\] _http://localhost/uploads/rezeptdb6-pdf_id-14389.pdf_
