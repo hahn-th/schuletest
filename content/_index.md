@@ -5,7 +5,6 @@ featured_image: "/images/header-buntstifte.jpg"
 menu:
   main:
     weight: 1
-draft: true
 
 ---
 # Willkommen
