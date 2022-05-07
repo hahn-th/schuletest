@@ -5,7 +5,7 @@ draft: false
 menu:
   main:
     weight: 10
-featured_image: '/images/header-buntstifte.jpg'
+featured_image: './images/header-buntstifte.jpg'
 ---
 
 {{< figure src="/images/maske_lilly.jpg" title="Schulhund Lilly erklärt, wie man eine Maske richtig trägt." >}}
